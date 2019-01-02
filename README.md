@@ -5,7 +5,7 @@ This contains files for the Fall 2018 Capstone Hexapod Walking Robot, built by K
 
 The Projects folder contains the project folders for both the Tiva-C and the Node MCU. The Tiva-C folder is a Code Composer Studio Project.
 
-The Source Code folder just contains the source code for each board.
+The Source Code folder just contains the source code for each board. The Tiva-C source code contains a semi-extensive Servo library that was used to abstract away some complexities.
 
 The Inventor Parts folder are all of the Autodesk Inventor parts that were modeled and later used for laser cutting.
 
