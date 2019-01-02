@@ -1,0 +1,1 @@
+"./legs.obj" "./main.obj" "./servo.obj" "./tm4c123gh6pm_startup_ccs.obj" "./uartcomm.obj" "../driverlib.lib" "../tm4c123gh6pm.cmd" -llibc.a 
